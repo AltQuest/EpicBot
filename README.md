@@ -1,5 +1,6 @@
 # EpicBot
 A Python Bot/Script to automate EpicDice Play
+https://epicdice.io/?ref=bitcoinjake09
 
 **reqires**
 python w/
