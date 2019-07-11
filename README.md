@@ -26,4 +26,4 @@ The more SP you have locked up the more RC you have and the more things you can 
 
 ALSO: to make it stop asking for your password, you can do this for the session
 
-  export UNLOCK='<passphrase>'
+  export UNLOCK=YOURPASSWORD
